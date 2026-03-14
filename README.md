@@ -1,7 +1,7 @@
 # Lorenz Curve and Gini Coefficient Analysis for Brazil
 
 ## Description
-This project analyzes income inequality in Brazil using the Lorenz Curve (LC) and Gini coefficients. It uses real microdata from IBGE's PNAD Contínua survey to graph the country’s LC for 2024 (Q4) with World Bank data to compare Brazil's inequality to Latin American countries and the world average over time.
+This project analyzes income inequality in Brazil using the Lorenz Curve (LC) and Gini coefficients. It uses real microdata from IBGE's PNAD Contínua survey to graph the country’s LC for 2024 (Q4) and World Bank data to compare Brazil's inequality to Latin American countries and the world average over time.
 
 ## Structure
 The script is divided into 5 sections:
